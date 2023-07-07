@@ -94,12 +94,13 @@
   }
 
   .best {
-    font-family: "Rouge Script", cursive;
+    font-family: "Roboto Mono", monospace;
     font-size: 30px;
   }
 
   .sell {
     color: #fad362;
+    font-family: "Rouge Script", cursive;
   }
 
   .cont2 {
